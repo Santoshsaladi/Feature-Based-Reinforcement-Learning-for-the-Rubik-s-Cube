@@ -2,8 +2,7 @@
 
 ## Introduction
 
-Welcome to the Feature-Based Reinforcement Learning project for solving the Rubik's Cube. This user documentation provides an overview of the project, its components, the algorithms used, and instructions on how to use and explore its features.
-
+Welcome to the Feature-Based Reinforcement Learning project for solving the Rubik's Cube. This documentation serves as your guide to understanding and utilizing our innovative approach to solving the classic Rubik's Cube puzzle. We have implemented cutting-edge techniques, including feature-based Q-Learning and a pattern database, to enable autonomous solving of the Rubik's Cube.
 ## Table of Contents
 
 1. [Overview](#overview)
