@@ -107,5 +107,3 @@ self.start_state = cube if cube is not None else n_move_state(n=5)
 Created by: Priyanka, Santosh & Rishikeswar
 
 ## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
