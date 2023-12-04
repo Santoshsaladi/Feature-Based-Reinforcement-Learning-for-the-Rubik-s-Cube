@@ -105,5 +105,3 @@ self.start_state = cube if cube is not None else n_move_state(n=5)
 ## Contributors
 
 Created by: Priyanka, Santosh & Rishikeswar
-
-## License
