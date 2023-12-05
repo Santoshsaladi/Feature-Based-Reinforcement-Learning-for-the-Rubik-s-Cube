@@ -19,7 +19,7 @@ Welcome to the Feature-Based Reinforcement Learning project for solving the Rubi
    - [Customizing Initial Moves](#customizing-initial-moves)
 6. [References](#references)
 7. [Contributors](#contributors)
-8. [License](#license)
+
 
 ## Overview
 
